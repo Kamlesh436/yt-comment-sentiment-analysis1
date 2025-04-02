@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = /home/kamlesh/dvc-storage
+    url = s3://ytcommentanalysisdvcbucket
